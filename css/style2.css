@@ -1,0 +1,61 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor
+{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: flex-end;
+    text-align: center;
+}
+
+#uno,#dos,#tres
+{
+    margin-top: 30px;
+    margin-left: auto;
+}
+#uno
+{ 
+    border: solid rgb(0, 132, 255) 2px ;
+}
+
+#dos
+{ 
+    border: solid rgb(0, 183, 255) 2px;
+}
+
+#tres
+{ 
+    border: solid rgb(255, 238, 0) 2px;
+}
+.venta
+{
+    text-align: center;
+}
+
+#Registro
+
+{
+    width: 70%;
+    margin: auto;
+   
+}
+footer
+{
+    text-align: center;
+    height: 130px;
+    background-color: rgb(33, 73, 92);
+    
+    position: relative;
+    
+  
+        
+    
+ 
+}
+

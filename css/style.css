@@ -1,0 +1,88 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.tituloconoce
+{
+    font-size: 10px;
+    text-align: center;
+}
+.titulooradores
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.imghonolulu
+{ 
+    height: 450px;
+}
+
+#Registro
+
+{
+    width: 70%;
+    margin: auto;
+   
+}
+
+
+
+.contenedor
+{
+    justify-content: space-around center;
+    width: 100%;
+}
+#ignite
+{
+    
+        border-bottom:1px dotted black;
+        text-decoration:none;
+      
+}
+
+.bconoce
+{
+    text-align: left;
+}
+
+#cards
+{
+    width: 800px;
+
+}
+
+.confbs
+{
+    width: 600px;
+    height: 300px;
+    margin-left: 500px;
+    text-align: end;
+}
+
+#carouselExampleCaptions img
+
+{
+filter: brightness(70%);
+
+}
+
+
+footer
+{
+    text-align: center;
+    height: 130px;
+    background-color: rgb(33, 73, 92);
+    
+    position: relative;
+    
+  
+        
+    
+ 
+}
+
+
